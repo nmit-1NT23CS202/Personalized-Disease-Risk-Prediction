@@ -34,7 +34,6 @@ VITAL_SIGNS = {
     220180: "diastolic_bp",
     220181: "mean_bp",
     220210: "respiratory_rate",
-    223762: "temperature",
     220277: "spo2"
 }
 
